@@ -2,6 +2,7 @@
   "name": "panto-party",
   "private": true,
   "version": "1.0.0",
+  "homepage": "https://hossein-akhoundian.github.io/Panto-Party-final-project/",
   "type": "module",
   "scripts": {
     "dev": "vite",
